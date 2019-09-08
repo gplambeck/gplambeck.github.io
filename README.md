@@ -8,6 +8,22 @@ My name is George Plambeck and welcome to my portfolio website. I am showcasing 
 ## About Me
 
 ----------
+
+I graduated from Sierra College in fall of 2006. While at Sierra I accomplished a few Associate's degrees. Two of them in computers, A.S. Computer Information Systems and A.S. Computer Applications, and one an Associate of Science in Mathematics. In the spring of 2011 I graduated from California State University, Sacramento with a Bachelor of Arts in Pure Mathematics. I came back to Sierra in the fall of 2016 to update my computer skills. Last fall I earned an Associate of Arts in Applied Art & Design-Digtl Media.
+
+So far my computer experience is in:
+
+- Microsoft Office Suite
+- Micorsoft Windows
+- HTML5
+- Java
+- macOS
+- Adobe CC Suite
+- Maya
+- CSS
+- JavaScript
+- jQuery
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
