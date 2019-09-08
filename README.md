@@ -1,8 +1,8 @@
 # Welcome
 
-You can use the [editor on GitHub](https://github.com/gplambeck/plambeck-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+----------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is George Plambeck and welcome to my portfolio website. I am showcasing my Python projects on this site I created in GitHub Pages. Feel free to browse my portfolio and take a look at my creations.
 
 ### Markdown
 
