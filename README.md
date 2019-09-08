@@ -36,38 +36,8 @@ I am a big fan of Star Wars and Star Trek. I always enjoy well told and thought 
 
 ----------
 
-1. Fundamentals of Programming in Python
-2. Internet of Things (IoT)
-3. Secure Scripting
-4. Data Analytics
-5. Python Hackathon
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gplambeck/plambeck-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Fundamentals of Programming in Python](https://github.com/gplambeck/plambeck-portfolio/blob/master/CourseUnits/Fundamentals_of_Programming_in_Python)
+2. [Internet of Things (IoT)](https://github.com/gplambeck/plambeck-portfolio/blob/master/CourseUnits/Internet_of_Things)
+3. [Secure Scripting](https://github.com/gplambeck/plambeck-portfolio/blob/master/CourseUnits/Secure_Scripting)
+4. [Data Analytics](https://github.com/gplambeck/plambeck-portfolio/blob/master/CourseUnits/Data_Analytics)
+5. [Python Hackathon](https://github.com/gplambeck/plambeck-portfolio/blob/master/CourseUnits/Python_Hackathon)
