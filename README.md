@@ -4,7 +4,7 @@
 
 My name is George Plambeck and welcome to my portfolio website. I am showcasing my Python projects on this site I created in GitHub Pages. Feel free to browse my portfolio and take a look at my creations.
 
-### Markdown
+## About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
