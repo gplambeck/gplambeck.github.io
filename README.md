@@ -36,8 +36,8 @@ I am a big fan of Star Wars and Star Trek. I always enjoy well told and thought 
 
 ----------
 
-1. [Fundamentals of Programming in Python](https://gplambeck.github.io/fundamentals_of_programming_in_python/)
-2. [Internet of Things (IoT)](https://gplambeck.github.io/internet_of_things/)
-3. [Secure Scripting](https://gplambeck.github.io/secure_scripting/)
-4. [Data Analytics](https://gplambeck.github.io/data_analytics/)
-5. [Python Hackathon](https://gplambeck.github.io/python_hackathon/)
+1. [Fundamentals of Programming in Python]()
+2. [Internet of Things (IoT)]()
+3. [Secure Scripting]()
+4. [Data Analytics]()
+5. [Python Hackathon]()
