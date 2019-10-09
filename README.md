@@ -4,7 +4,7 @@
 
 My name is George Plambeck and welcome to my portfolio website. I am showcasing my Python projects on this site I created in GitHub Pages. Feel free to browse my portfolio and take a look at my creations.
 
-![Image](profile-278x350.jpg)
+![Image](image/profile-278x350.jpg)
 ## About Me
 
 ----------
