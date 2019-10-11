@@ -12,10 +12,10 @@ The topics explored in this unit are:
 - [Collatz Sequence](#collatz-sequence)
 - [Comma Code](#comma-code)
 - [Character Picture Grid](#character-picture-grid)
-- [Functions](functions)
-- [Encryption/Decryption]()
-- [Strings and Exception Handling]()
-- [Password Manager Program]()
+- [Functions](#functions)
+- [Encryption/Decryption](#encryption/decryption)
+- [Strings and Exception Handling](#strings-and-exception-handling)
+- [Password Manager Program](#password-manager-program)
 
 
 ## Python Basics
@@ -101,6 +101,29 @@ FILE GOES HERE.
 
 FILE GOES HERE.
 
+## Encryption/Decryption
+
+----------
+
+
+
+FILE GOES HERE.
+
+## Strings and Exception Handling
+
+----------
+
+
+
+FILE GOES HERE.
+
+## Password Manager Program
+
+----------
+
+
+
+FILE GOES HERE.
 
 
 ### Course Units
