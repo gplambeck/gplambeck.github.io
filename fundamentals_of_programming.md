@@ -10,9 +10,9 @@ The topics explored in this unit are:
 - [Creating A Simple Game](#creating-a-simple-game)
 - [Password Generator](#password-generator)
 - [Collatz Sequence](#collatz-sequence)
-- [Comma Code]()
-- [Character Picture Grid]()
-- [Functions]()
+- [Comma Code](#comma-code)
+- [Character Picture Grid](#character-picture-grid)
+- [Functions](functions)
 - [Encryption/Decryption]()
 - [Strings and Exception Handling]()
 - [Password Manager Program]()
@@ -57,7 +57,9 @@ FILE GOES HERE.
 
 ----------
 
-The password generator is a good example of how random itmes from a list can be chosen by the computer. Since this is a *password* generating program, it was also useful to lean how to use the .replace(str1, str2) and .capitalize() methods to generate more secure passwords.
+The password generator is a good example of how random items from a list can be chosen by the computer. Since this is a *password* generating program, it was also useful to lean how to use the .replace(str1, str2) and .capitalize() methods to generate more secure passwords. As a challenge project, I made a program that gives the computer 60 seconds to guess what the password is and displays the number of guesses after a user inputs a 4 character password composed only of lower case letters.
+
+FILE GOES HERE.
 
 FILE GOES HERE.
 
@@ -65,9 +67,34 @@ FILE GOES HERE.
 
 ----------
 
+This program is an example of how to define a function and how to use the  **_try_** and **_except_** statements to validate the input. The collatz(number) function divides an even input integer by 2 or multiplies and odd input integer by 3 and adds 1. The program calls on this function until the the num variable is equal to 1.
+
+FILE GOES HERE.
+
+## Comma Code
+
+----------
+
+A function that takes a list value as an argument and returns a string with all the items separated by a comma and a space, with 'and' inserted before the last item. This is a good example of how to type a list once and call on the values without typing each value over again in the code.
+
+FILE GOES HERE.
+
+## Character Picture Grid
+
+----------
+
+This function prints an ASCII image. The image is created by printing the values of each list that are stored in a list. This project was a good example of getting specific values from a specific index in a list. To print my second image, I printed the image on paper and sketched a grid of each character that was needed for the image. I then used my grid to enter each value of each list and position the lists in the main list so that when the function was called the characters would print the resulting ASCII image.
+
+FILE GOES HERE.
+
+## Functions
+
+----------
+
 
 
 FILE GOES HERE.
+
 
 
 ### Course Units
