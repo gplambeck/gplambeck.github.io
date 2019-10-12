@@ -1,7 +1,3 @@
----
-site.github
----
-
 # Unit 1 Fundamentals of Programming in Python
 
 ----------
