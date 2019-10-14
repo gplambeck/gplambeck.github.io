@@ -134,7 +134,7 @@ FILE GOES HERE.
 
 ----------
 
-[Home](./README.md)
+   [Home](./README.md)
 1. [Fundamentals of Programming in Python](./fundamentals_of_programming.md)
 2. [Internet of Things (IoT)](./internet_of_things)
 3. [Secure Scripting](./secure_scripting)
