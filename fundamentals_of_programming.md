@@ -6,6 +6,8 @@ theme: time-machine
 
 ----------
 
+
+
 The topics explored in this unit are:
 
 - [Module 01](#module-01)
@@ -145,7 +147,7 @@ FILE GOES HERE.
 
 ----------
 
-1. [Fundamentals of Programming in Python](#unit-1-fundamentals-of-programming-in-python)
+##### 1. [Fundamentals of Programming in Python](./fundamentals_of_programming.md)
 2. [Internet of Things (IoT)](./internet_of_things.md)
 3. [Secure Scripting](./secure_scripting.md)
 4. [Data Analytics](./data_analytics.md)
