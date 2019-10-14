@@ -23,6 +23,7 @@ So far, my computer experience is in:
 - CSS
 - JavaScript
 - jQuery
+- Python
 
 While I have been advancing my computer skills, I've been teaching myself the Python language. I've been learning from books that use older versions of Python. Although I've been successful at learning some of the basic skills, every now and then I come across codes that don't work. Most of the time I can figure out why, but sometimes I can’t find a solution to the errors I get. I am taking IT75 - Python for Many Uses to learn the language better and gain the skills needed to apply for jobs.
 
