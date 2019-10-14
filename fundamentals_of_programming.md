@@ -153,4 +153,4 @@ FILE GOES HERE.
 4. [Data Analytics](./data_analytics.md)
 5. [Python Hackathon](./python_hackathon.md)
 
-[Home](./README.md)
+[About Me](./README.md)
