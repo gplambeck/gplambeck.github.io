@@ -8,21 +8,27 @@ theme: time-machine
 
 The topics explored in this unit are:
 
-- [Python Basics](#python-basics)
-- [Turtle](#turtle)
-- [Calculation](#calculation)
-- [Creating A Simple Game](#creating-a-simple-game)
-- [Password Generator](#password-generator)
-- [Collatz Sequence](#collatz-sequence)
-- [Comma Code](#comma-code)
-- [Character Picture Grid](#character-picture-grid)
-- [Functions](#functions)
-- [Encryption/Decryption](#encryption/decryption)
-- [Strings and Exception Handling](#strings-and-exception-handling)
-- [Password Manager Program](#password-manager-program)
+[Module 01](#module-01)
+  - [Python Basics](#python-basics)
+  - [Turtle](#turtle)
+[Module 02](#module-02)
+  - [Calculation](#calculation)
+[Module 03](#module-03)
+  - [Creating A Simple Game](#creating-a-simple-game)
+  - [Password Generator](#password-generator)
+[Module 04](#module-04)
+  - [Collatz Sequence](#collatz-sequence)
+  - [Comma Code](#comma-code)
+  - [Character Picture Grid](#character-picture-grid)
+[Module 05](#module-05)
+  - [Functions](#functions)
+  - [Encryption/Decryption](#encryption/decryption)
+[Module 06](#module-06)
+ - [Strings and Exception Handling](#strings-and-exception-handling)
+ - [Password Manager Program](#password-manager-program)
 
-
-## Python Basics
+## Module 01
+### Python Basics
 
 ----------
 
@@ -36,7 +42,7 @@ FILE GOES HERE.
 
 FILE GOES HERE.
 
-## Turtle
+### Turtle
 
 ----------
 
@@ -47,7 +53,8 @@ I created the following program to explore the turtle graphics system. The codes
 
 FILE GOES HERE.
 
-## Calculation
+## Module 02
+### Calculation
 
 ----------
 
@@ -55,7 +62,8 @@ The goal here was to use Python's math operators to estimate the number of trees
 
 FILE GOES HERE.
 
-## Creating A Simple Game
+## Module 03
+### Creating A Simple Game
 
 ----------
 
@@ -63,7 +71,7 @@ This simple game of Rock - Paper - Scissors, is a good example of working with c
 
 FILE GOES HERE.
 
-## Password Generator
+### Password Generator
 
 ----------
 
@@ -73,7 +81,8 @@ FILE GOES HERE.
 
 FILE GOES HERE.
 
-## Collatz Sequence
+## Module 04
+### Collatz Sequence
 
 ----------
 
@@ -81,7 +90,7 @@ This program is an example of how to define a function and how to use the  **_tr
 
 FILE GOES HERE.
 
-## Comma Code
+### Comma Code
 
 ----------
 
@@ -89,7 +98,7 @@ A function that takes a list value as an argument and returns a string with all 
 
 FILE GOES HERE.
 
-## Character Picture Grid
+### Character Picture Grid
 
 ----------
 
@@ -97,7 +106,8 @@ This function prints an ASCII image. The image is created by printing the values
 
 FILE GOES HERE.
 
-## Functions
+## Module 05
+### Functions
 
 ----------
 
@@ -105,7 +115,7 @@ FILE GOES HERE.
 
 FILE GOES HERE.
 
-## Encryption/Decryption
+### Encryption/Decryption
 
 ----------
 
@@ -113,7 +123,8 @@ FILE GOES HERE.
 
 FILE GOES HERE.
 
-## Strings and Exception Handling
+## Module 06
+#### Strings and Exception Handling
 
 ----------
 
@@ -121,7 +132,7 @@ FILE GOES HERE.
 
 FILE GOES HERE.
 
-## Password Manager Program
+### Password Manager Program
 
 ----------
 
@@ -130,7 +141,7 @@ FILE GOES HERE.
 FILE GOES HERE.
 
 
-### Course Units
+#### Course Units
 
 ----------
 
