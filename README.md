@@ -37,7 +37,7 @@ I am a big fan of Star Wars and Star Trek. I always enjoy well told and thought 
 ----------
 
 1. [Fundamentals of Programming in Python](./fundamentals_of_programming.md)
-2. [Internet of Things (IoT)]()
-3. [Secure Scripting]()
-4. [Data Analytics]()
-5. [Python Hackathon]()
+2. [Internet of Things (IoT)](./internet_of_things)
+3. [Secure Scripting](./secure_scripting)
+4. [Data Analytics](./data_analytics)
+5. [Python Hackathon](./python_hackathon)
