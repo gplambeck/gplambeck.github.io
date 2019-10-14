@@ -8,22 +8,22 @@ theme: time-machine
 
 The topics explored in this unit are:
 
-[Module 01](#module-01)
+- [Module 01](#module-01)
   * [Python Basics](#python-basics)
   * [Turtle](#turtle)
-[Module 02](#module-02)
+- [Module 02](#module-02)
   * [Calculation](#calculation)
-[Module 03](#module-03)
+- [Module 03](#module-03)
   * [Creating A Simple Game](#creating-a-simple-game)
   * [Password Generator](#password-generator)
-[Module 04](#module-04)
+- [Module 04](#module-04)
   * [Collatz Sequence](#collatz-sequence)
   * [Comma Code](#comma-code)
   * [Character Picture Grid](#character-picture-grid)
-[Module 05](#module-05)
+- [Module 05](#module-05)
   * [Functions](#functions)
   * [Encryption/Decryption](#encryption/decryption)
-[Module 06](#module-06)
+- [Module 06](#module-06)
   * [Strings and Exception Handling](#strings-and-exception-handling)
   * [Password Manager Program](#password-manager-program)
 
