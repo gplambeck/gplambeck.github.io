@@ -52,9 +52,7 @@ FILE GOES HERE.
 
 ----------
 
-<p align="center">
-<img src = "image/Olympic_Logo.png" "Olympic Logo">
-</p>
+![Image](image/Olympic_Logo.png)
 I created the following program to explore the turtle graphics system. The codes I used moved a pen around the screen and change the pen's color and width to draw the image seen above.
 
 FILE GOES HERE.
