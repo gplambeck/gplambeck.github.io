@@ -2,5 +2,5 @@ theme: jekyll-theme-time-machine
 title: George Plambeck
 description: Portfolio
 
-github:
-  zip_url: https://github.com/gplambeck
+[[menu.global]]
+  url = "https://github.com/gplambeck"
