@@ -2,5 +2,4 @@ theme: jekyll-theme-time-machine
 title: George Plambeck
 description: Portfolio
 
-navbar-links: 
-  View George Plambeck on GitHub: https://github.com/gplambeck
+github_editme_path: https://github.com/gplambeck
