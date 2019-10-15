@@ -130,7 +130,7 @@ FILE GOES HERE.
 FILE GOES HERE.
 
 ## Module 06
-#### Strings and Exception Handling
+### Strings and Exception Handling
 
 ----------
 
