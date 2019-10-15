@@ -33,7 +33,7 @@ The most important thing in my life is my family. I like to go on family trips a
 
 I am a big fan of Star Wars and Star Trek. I always enjoy well told and thought out stories. When I was taking the AAD classes at Sierra, I was always trying to go beyond the lessons and learn how to advance the graphic skills I learned.
 
-## Course Units
+#### Course Units
 
 ----------
 
