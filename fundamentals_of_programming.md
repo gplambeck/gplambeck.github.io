@@ -29,6 +29,10 @@ The topics explored in this unit are:
   * [Strings and Exception Handling](#strings-and-exception-handling)
   * [Password Manager Program](#password-manager-program)
 
+I have chosen these particular pieces to demonstrate the progress I have made in learning the Python language. Each of these pieces represents how I started with learning the basics and how the different codes work and then advancing by applying what I have learned to create useful programs. My goals were to improve the skills I had already taught myself and to understand the language better. I have successfully accomplished these goals by following and understanding the examples in class and in the book *Automate The Boring Stuff With Python*. To explore my new skills further, I would also continue to use the book I was teaching myself from, *Beginning Python From Novice to Professional*, and research codes on the internet to find ways of enhancing my programs.
+
+The one thing I would like someone to notice about my portfolio is that I don’t just accomplish what needs to be done, I continue to go beyond the lesson to learn more and continue to advance the skills I start out with. I think that once basic skills are mastered, the only way to keep these skills is by continually using them and finding new ways to advance them. I feel that this collection of work really reflects my abilities and what I have achieved so far. I came into this class with a little understanding of Python and some background in programming. This collection flows from starting with some simple basic skills, progresses by using those skills and exploring further how to add to them, and then combining multiple projects into one to result in a fully functioning program.
+
 ## Module 01
 ### Python Basics
 
