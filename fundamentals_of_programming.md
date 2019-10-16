@@ -62,7 +62,17 @@ Since most of the books I have read about Python start with these same basic pra
 
 ![Image](image/Olympic_Logo.png)
 
-I created the following program to explore the turtle graphics system. The codes I used moved a pen around the screen and change the pen's color and width to draw the image seen above.
+I selected this piece of work because I have never typed instructions to the computer before to draw an image. Even though point, click, and drag are technically instructions to the computer, this is manually speaking to the computer in a language both I and the computer understand. I created this image by first making a variable called *my_turtle* to create a pen that will draw the circles. Then, I used *.circle()* to draw the circles of a radius I specify in the parentheses. I used *.backward()*, *.forward()*, and *.left()* to move my pen into the positions I specify in the parentheses to draw the circles at their locations shown above. I used *.up()* to lift the pen up and stop drawing to the screen when moving the pen and *.down()* to put the pen down and draw the circle. To change the color of the circles, I used *.color()* and specified the color in the parentheses. To make the code easy to follow, I grouped the codes by each ring color. Here is an example of how the blue ring was made:
+```python
+#Blue ring
+my_turtle.up()	#lifts up the pen
+my_turtle.backward(225)	#moves backward 225 without drawing
+my_turtle.color('blue')	#sets the color blue
+my_turtle.down()	#puts the pen down
+my_turtle.circle(100)	#draws a blue circle of radius 100
+```
+Learning how the numbers affect the forward and backward movements was particularly important to me during the process of creating this work. Having the correct amount of spacing between the circles was a problem I encountered when creating this image. To find the right amount of spacing, I did a lot of trial and error inputting the numbers. Once I saw the right amount of space between two circles, I calculated the rest of the movements based on this initial number. Doing these calculations relates to what I learned about movement on a graph in algebra and angles in trigonometry.
+
 
 [Module 01 Files](https://github.com/gplambeck/unit_1/tree/master/module01)
 
