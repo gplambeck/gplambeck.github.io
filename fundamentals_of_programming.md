@@ -56,16 +56,6 @@ Practice 4 demonstrates the ```len()``` function which returns an integer value 
 
 Since most of the books I have read about Python start with these same basic practices, these practices relate to what I have learned before. I would like to remove this basics section from this collection because it doesn’t really reflect the full potential of my skills. This section just reflects the foundation of my later works. Starting here and progressing on shows how my projects progress and advance from the foundations I start with.
 
-
-
-FILE GOES HERE.
-
-FILE GOES HERE.
-
-FILE GOES HERE.
-
-FILE GOES HERE.
-
 ### Turtle
 
 ----------
@@ -83,7 +73,7 @@ I created the following program to explore the turtle graphics system. The codes
 
 The goal here was to use Python's math operators to estimate the number of trees in Sacramento.
 
-FILE GOES HERE.
+[Module 02 Files]()
 
 ## Module 03
 ### Creating A Simple Game
@@ -92,17 +82,13 @@ FILE GOES HERE.
 
 This simple game of Rock - Paper - Scissors, is a good example of working with conditionals. The entire program relies on evaluating if a condition is met then do this else if the condition is not met then do something else. I decided to take the progaram a step further and code it to that popular game of Rock - Paper - Scissors - Lizard - Spock.
 
-FILE GOES HERE.
-
 ### Password Generator
 
 ----------
 
 The password generator is a good example of how random items from a list can be chosen by the computer. Since this is a *password* generating program, it was also useful to lean how to use the .replace(str1, str2) and .capitalize() methods to generate more secure passwords. As a challenge project, I made a program that gives the computer 60 seconds to guess what the password is and displays the number of guesses after a user inputs a 4 character password composed only of lower case letters.
 
-FILE GOES HERE.
-
-FILE GOES HERE.
+[Module 03 Files]()
 
 ## Module 04
 ### Collatz Sequence
@@ -111,15 +97,11 @@ FILE GOES HERE.
 
 This program is an example of how to define a function and how to use the  **_try_** and **_except_** statements to validate the input. The collatz(number) function divides an even input integer by 2 or multiplies and odd input integer by 3 and adds 1. The program calls on this function until the the num variable is equal to 1.
 
-FILE GOES HERE.
-
 ### Comma Code
 
 ----------
 
 A function that takes a list value as an argument and returns a string with all the items separated by a comma and a space, with 'and' inserted before the last item. This is a good example of how to type a list once and call on the values without typing each value over again in the code.
-
-FILE GOES HERE.
 
 ### Character Picture Grid
 
@@ -127,7 +109,7 @@ FILE GOES HERE.
 
 This function prints an ASCII image. The image is created by printing the values of each list that are stored in a list. This project was a good example of getting specific values from a specific index in a list. To print my second image, I printed the image on paper and sketched a grid of each character that was needed for the image. I then used my grid to enter each value of each list and position the lists in the main list so that when the function was called the characters would print the resulting ASCII image.
 
-FILE GOES HERE.
+[Module 04 Files]()
 
 ## Module 05
 ### Functions
@@ -136,15 +118,13 @@ FILE GOES HERE.
 
 
 
-FILE GOES HERE.
-
 ### Encryption/Decryption
 
 ----------
 
 
 
-FILE GOES HERE.
+[Module 05 Files]()
 
 ## Module 06
 ### Strings and Exception Handling
@@ -153,15 +133,13 @@ FILE GOES HERE.
 
 
 
-FILE GOES HERE.
-
 ### Password Manager Program
 
 ----------
 
 
 
-FILE GOES HERE.
+[Module 06 Files]()
 
 
 #### Course Units
