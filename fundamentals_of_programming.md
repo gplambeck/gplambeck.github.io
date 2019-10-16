@@ -74,7 +74,7 @@ FILE GOES HERE.
 
 I created the following program to explore the turtle graphics system. The codes I used moved a pen around the screen and change the pen's color and width to draw the image seen above.
 
-[Module 01 Files](unit_1/module01/)
+[Module 01 Files](https://github.com/gplambeck/unit_1/tree/master/module01)
 
 ## Module 02
 ### Calculation
