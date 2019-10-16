@@ -73,7 +73,6 @@ my_turtle.circle(100)       #draws a blue circle of radius 100
 ```
 Learning how the numbers affect the forward and backward movements was particularly important to me during the process of creating this work. Having the correct amount of spacing between the circles was a problem I encountered when creating this image. To find the right amount of spacing, I did a lot of trial and error inputting the numbers. Once I saw the right amount of space between two circles, I calculated the rest of the movements based on this initial number. Doing these calculations relates to what I learned about movement on a graph in algebra and angles in trigonometry.
 
-
 [Module 01 Files](https://github.com/gplambeck/unit_1/tree/master/module01)
 
 ## Module 02
@@ -81,9 +80,11 @@ Learning how the numbers affect the forward and backward movements was particula
 
 ----------
 
-The goal here was to use Python's math operators to estimate the number of trees in Sacramento.
+I selected this piece of work to demonstrate how Python can be used to create a calculation program. The goal was to estimate the number of trees in Sacramento. First, I created a variable containing the area of Sacramento in square miles (sq. mi.). Then, I made five sample area variables each having a value of the number of trees in a sample area of 200 feet by 200 feet. Next, I made a variable that calculates the average number of trees. Then, I convert the sample area from sq. ft. to sq. mi. Finally, my *answer* variable calculates the average number of trees per sq. mi. sample area, multiplies by the area of Sacramento, and then is printed to the screen.
 
-[Module 02 Files]()
+What was particularly important to me during the process of creating this work was the organization of how I was going to layout the calculation. I wanted to make sure I had all my information first and then do any calculations and conversions before making a final variable that would calculate the result. This way, if there was an error somewhere, I could find it in smaller set up calculations rather than search through one long line of code. In addition to formulas I learned in algebra, this also relates to the organization of procedures skills I learned in algebra.
+
+[Module 02 Files](https://github.com/gplambeck/unit_1/tree/master/module02)
 
 ## Module 03
 ### Creating A Simple Game
