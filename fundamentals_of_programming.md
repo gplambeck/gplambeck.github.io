@@ -38,7 +38,11 @@ The one thing I would like someone to notice about my portfolio is that I don’
 
 ----------
 
-I began with learning the basics of the Python language. First, I created a variable, printed it, then changed its value and had the new value printed. Then, I created a file to show how quotation marks are printed to the screen. Next, I stored a number in a variable and converted the variable to a string so that I can use the variable to create a string message. Lastly, I used the len() function to count the number of characters that are in a string.
+I selected these practices because they demonstrate how far I have come since the beginning of the semester. Practice 1 demonstrates storing a message in a variable and printing the message to the screen, and then changing the value of the variable and printing the new value to the screen. I created this by first naming my variable spam and assigning it the message as its value, then calling the print function on spam as seen here:
+```python
+spam = "Hello World!"
+print(spam)
+```
 
 FILE GOES HERE.
 
