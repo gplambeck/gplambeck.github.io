@@ -92,7 +92,35 @@ What was particularly important to me during the process of creating this work w
 
 ### Rock - Paper - Scissors - Lizard - Spock Game
 
-This simple game of Rock - Paper - Scissors, is a good example of working with conditionals. The entire program relies on evaluating if a condition is met then do this else if the condition is not met then do something else. I decided to take the progaram a step further and code it to that popular game of Rock - Paper - Scissors - Lizard - Spock.
+I selected this piece of work because Rock - Paper - Scissors is a good example of working with conditionals. The entire program relies on evaluating if a condition is met then do this else if the condition is not met then do something else. I decided to take the program a step further and code it to that popular game of Rock - Paper - Scissors - Lizard - Spock.
+
+I created this game by first assigning a list of choices for the player and computer to choose from. To make sure that the player enters a valid input, I made a while loop that will compare the player’s input with the list and continue to loop until the player enters a choice from the list of choices. Then I set the conditions for winning with nested *if*, *elif*, and *else* statements.
+```python
+if p1 == p2:
+    print('You tie!')
+elif p1 == 'r':
+    if p2 == 'p':
+        print('You lose!')
+    elif p2 == 's':
+        print('You win!')
+    elif p2 == 'l':
+        print('You win!')
+    else:
+        print('You lose!')
+elif p1 == 'p':
+    if p2 == 'r':
+        print('You win!')
+    elif p2 == 's':
+        print('You lose!')
+    elif p2 == 'l':
+        print('You lose!')
+    else:
+        print('You win!')
+```
+What was particularly important to me during the process of creating this game was finding a way to have the game continue until the player was done playing the game. I solved this by putting the game into a while loop and not ending the loop until the player chose not to play again. Another problem I encountered was trying to take care of invalid inputs. I solved this by having the values of the input variables compared to a list of choices and continuing to loop for a valid input until the values were in the list.
+
+This piece of work relates to how I programed this game before in Java. With the exception of the language of the code being a little different, I basically wrote the code the exact same way and this time using what I have recently learned to add an option to continue or quit the game.
+
 
 ### Password Generator
 
