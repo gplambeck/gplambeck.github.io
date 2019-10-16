@@ -43,6 +43,20 @@ I selected these practices because they demonstrate how far I have come since th
 spam = "Hello World!"
 print(spam)
 ```
+Practice 2 demonstrates how to print quotation marks to the screen. This is done by using **_escape quotes_**, single quotes enclosing the string.
+```python
+print('Obi-Wan Kenobi once said, "You\'ve taken your first step into \
+a larger world."')
+```
+I also used (\\) to tell Python that the apostrophe is a character in the string and not the end of the string. In addition, I used the backslash by itself at the end of the line to tell Python that I want to break to the next line but to ignore the break when printing the string. This style is particularly important to me when writing code because text editors usually open as a small window. By confining my texts to a standard space, someone reading my code wouldn’t need to scroll to the side to read what is hidden at the side of the window or enlarge the window and fill their limited screen space.
+
+Practice 3 demonstrates the importance of knowing the difference between an integer and a string. This is important because only strings can be concatenated. If the value of a variable is an integer and it is called upon in a string, the variable must be converted to a string using ```str(fave_num)``` before the variable can be concatenated in the string.
+
+Practice 4 demonstrates the ```len()``` function which returns an integer value of the number of characters in a string.
+
+Since most of the books I have read about Python start with these same basic practices, these practices relate to what I have learned before. I would like to remove this basics section from this collection because it doesn’t really reflect the full potential of my skills. This section just reflects the foundation of my later works. Starting here and progressing on shows how my projects progress and advance from the foundations I start with.
+
+
 
 FILE GOES HERE.
 
@@ -60,7 +74,7 @@ FILE GOES HERE.
 
 I created the following program to explore the turtle graphics system. The codes I used moved a pen around the screen and change the pen's color and width to draw the image seen above.
 
-FILE GOES HERE.
+[Module 01 Files](unit_1/module01/)
 
 ## Module 02
 ### Calculation
