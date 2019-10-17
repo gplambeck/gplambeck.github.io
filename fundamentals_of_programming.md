@@ -163,7 +163,7 @@ This piece relates to what I learned before about how to create a function and w
 
 ### Character Picture Grid
 
-![Image](image/Olympic_Logo.png)
+![Image](image/snoopyASCII.png)
 
 The reason I selected this piece of work is because this function prints an ASCII image. The image is created by printing the items of each list that are stored in a list. To print my second image, I printed the image on paper and sketched a grid of each character that was needed for the image. I then used my grid to enter each item of each list and position the lists in the main list so that when the function was called the characters would print the resulting ASCII image.
 
@@ -178,7 +178,7 @@ def ASCIIimage(gridName):
     print()
 ```
 
-[Module 04 Files]()
+[Module 04 Files](https://github.com/gplambeck/unit_1/tree/master/module04)
 
 ## Module 05
 
