@@ -74,6 +74,8 @@ Learning how the numbers affect the forward and backward movements was particula
 
 [Module 01 Files](https://github.com/gplambeck/unit_1/tree/master/module01)
 
+[Return to top](#unit-1-fundamentals-of-programming-in-python)
+
 ## Module 02
 
 ----------
@@ -85,6 +87,8 @@ I selected this piece of work to demonstrate how Python can be used to create a 
 What was particularly important to me during the process of creating this work was the organization of how I was going to layout the calculation. I wanted to make sure I had all my information first and then do any calculations and conversions before making a final variable that would calculate the result. This way, if there was an error somewhere, I could find it in smaller set up calculations rather than search through one long line of code. In addition to formulas I learned in algebra, this also relates to the organization of procedures skills I learned in algebra.
 
 [Module 02 Files](https://github.com/gplambeck/unit_1/tree/master/module02)
+
+[Return to top](#unit-1-fundamentals-of-programming-in-python)
 
 ## Module 03
 
@@ -143,6 +147,8 @@ This project relates to loops, conditions, and flow control statements learned f
 
 [Module 03 Files](https://github.com/gplambeck/unit_1/tree/master/module03)
 
+[Return to top](#unit-1-fundamentals-of-programming-in-python)
+
 ## Module 04
 
 ----------
@@ -165,7 +171,7 @@ This piece relates to what I learned before about how to create a function and w
 
 ![Image](image/snoopyASCII.png)
 
-The reason I selected this piece of work is because this function prints an ASCII image. The image is created by printing the items of each list that are stored in a list. To print my second image, I printed the image on paper and sketched a grid of each character that was needed for the image. I then used my grid to enter each item of each list and position the lists in the main list so that when the function was called the characters would print the resulting ASCII image.
+The reason I selected this piece of work is because this function prints an ASCII image. The image is created by printing the items of each list that are stored in a list. To print the second image, shown above, I printed the image on paper and sketched a grid of each character that was needed for the image. I then used my grid to enter each item of each list and position the lists in the main list so that when the function was called the characters would print the resulting ASCII image.
 
 Figuring out how to use a loop in a loop to print the items in the correct order was particularly important to me during the process of creating this work. This project was a good example of getting specific items from a specific index in a list. This applied what I had learned before about indexes. I basically used what I knew but had to look at calling on specific indexes in a particular way to get the items arranged to form a picture.
 ```python
@@ -179,6 +185,8 @@ def ASCIIimage(gridName):
 ```
 
 [Module 04 Files](https://github.com/gplambeck/unit_1/tree/master/module04)
+
+[Return to top](#unit-1-fundamentals-of-programming-in-python)
 
 ## Module 05
 
@@ -194,6 +202,8 @@ def ASCIIimage(gridName):
 
 [Module 05 Files]()
 
+[Return to top](#unit-1-fundamentals-of-programming-in-python)
+
 ## Module 06
 
 ----------
@@ -207,6 +217,8 @@ def ASCIIimage(gridName):
 
 
 [Module 06 Files]()
+
+[Return to top](#unit-1-fundamentals-of-programming-in-python)
 
 
 #### Course Units
