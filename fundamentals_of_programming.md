@@ -194,7 +194,7 @@ def ASCIIimage(gridName):
 
 ### Functions
 
-
+Again, I selected these practices because they demonstrate how my projects progress and advance from the foundations I start with. This would be another piece I would like to remove from this collection because it just reflects a simple introduction of what is to come. The *return* statement was particularly important to me during the process of these practices. It is important to specify what the return value of a function should be when defining your own function, especially if you want the function to return different values based on conditions. This would relate back to the Rock - Paper - Scissors game. There I had different print results based on certain conditions.
 
 ### Encryption/Decryption
 
