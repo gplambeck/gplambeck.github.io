@@ -198,6 +198,30 @@ Again, I selected these practices because they demonstrate how my projects progr
 
 ### Encryption/Decryption
 
+I selected this piece of work because of all the items included, this one was the most challenging project. The problem I had was trying to figure out how I was going to get two lists, the alphabet list and the key list, to be associated with each other so the key would change the appropriate letters when scrambling the message. I created the function that would encrypt the message by first making three variables, one as an empty string, the second assigned the alphabet string variable, and the third assigned the key string variable. Then, I made a for loop that would loop through each symbol in the message. If the character in the message is in the alphabet, find its index in the alphabet and replace it with the character in the key with the same index. I also had to take care of characters that were in the message but not in the alphabet list, like the period, capital letters, numbers, or symbols. So, my *else* statement contained the empty string variable concatenated with the character not found in the alphabet list. To decrypt, I just swapped where the key and alphabet strings were used.
+```python
+# Translates the letters in the message to their corresponding replacement.
+def translateMessage(Key, message, mode):
+    translated = ''
+    charsA = alphabet
+    charsB = Key
+    # For decrypting swap where the key and alphabet strings are used.
+    if mode == 'd':
+        charsA, charsB = charsB, charsA
+    # loop through each symbol in the message
+    for char in message:
+        if char.lower() in charsA:
+            charIndex = charsA.find(char.lower())
+            translated += charsB[charIndex].lower()
+        # if character is not in alphabet, just add it
+        else:
+            translated += char
+    return translated
+```
+
+What was particularly important to me during the process of creating this work was putting the smaller parts together to make one program that would encrypt or decrypt depending on what the user wanted to do. This was a good example of how to break a large project down into sections and test and debug a little at a time before having one file of massive codes. This project relates to what I learned about loops, conditionals, and, most importantly, lists and their indexes.
+
+The piece I would most like to improve is my *checkValidKey(Key)* function. Right now, if the user doesn’t input a key meeting the specified criteria, the program exits with an error message. Instead, I would like the function to loop until a valid key is entered. After trying all of the ways I have learned before about loops, I will come back to this and try some new ideas that I have learned in later lessons.
 
 
 [Module 05 Files]()
