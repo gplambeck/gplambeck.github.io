@@ -124,9 +124,24 @@ This piece of work relates to how I programed this game before in Java. With the
 
 ### Password Generator
 
-The password generator is a good example of how random items from a list can be chosen by the computer. Since this is a *password* generating program, it was also useful to lean how to use the .replace(str1, str2) and .capitalize() methods to generate more secure passwords. As a challenge project, I made a program that gives the computer 60 seconds to guess what the password is and displays the number of guesses after a user inputs a 4 character password composed only of lower case letters.
+I selected the password generator because, in addition to the computer making a choice in the previous piece, it is a good example of how random items from a list can be chosen by the computer. To create this program, I first had to import random so that the computer could randomly pick items from a list. I then placed three lists and an original password variable above my main codes. To randomize four words to use in the new password, I assigned a random word from each of my list of words to four different variables.
+```python
+words = [nouns, verbs, adjs]
+# Four random words from the list of nouns, verbs and adjs
+word1 = random.choice(nouns)
+word2 = random.choice(verbs)
+word3 = random.choice(adjs)
+word4 = random.choice(random.choice(words))
+```
+I then used *.capitalize()* to make the first letter in a word capitalized. Finally, I concatenated the four variables to create a new password.
 
-[Module 03 Files]()
+Since this is a **password** generating program, it was important to me during the process of creating this work to learn how to use the *.replace(str1, str2, number of str to replace)* and *.capitalize()* methods to generate more secure passwords. I created a function using the *.replace()* method to replace the first specified number of occurrences of a letter in the password with a number or symbol.
+
+A problem I encountered was in the challenge program. The program gives the computer 60 seconds to guess what the password is and displays the number of guesses after a user inputs a 4-character password composed only of lower-case letters. The problem was that the code I had to set the length of time for the program to run was not supported in the current version of Python. So, I searched the internet for a code that would be supported and found *time.time()*. This results the current time on the computer. By adding 60, I now have a variable with a value of 60 seconds.
+
+This project relates to loops, conditions, and flow control statements learned for creating the previous game. Just like in the game, loops were used to keep the second program running until completed, conditions were evaluated whether to continue or not, and the flow control statements determined what action to take when a condition was met.
+
+[Module 03 Files](https://github.com/gplambeck/unit_1/tree/master/module03)
 
 ## Module 04
 
@@ -134,15 +149,34 @@ The password generator is a good example of how random items from a list can be 
 
 ### Collatz Sequence
 
-This program is an example of how to define a function and how to use the  **_try_** and **_except_** statements to validate the input. The collatz(number) function divides an even input integer by 2 or multiplies and odd input integer by 3 and adds 1. The program calls on this function until the the num variable is equal to 1.
+I selected this program to demonstrate how to define a function and how to use the *try* and *except* statements to validate the input. I created this program by first defining my function *collatz(number)*. If the number entered is even, divide it by 2 and print the result. If the number is odd, multiply it by 3 and add 1. After I have defined my function, I use the *try* statement in a while loop to try the user’s input and see if it is an integer and I use the *except* statement to print a message to the user to enter an integer if the program detects a value error. The while loop keeps calling on the *collatz(number)* function until the num variable equals 1.
+
+What was particularly important to me during the process of creating this work was remembering to convert the value type of a returned variable to an integer so that the function could continue until the loop ended. This relates to what I learned before about string concatenation and operations on integers, the math operators will not work on strings.
 
 ### Comma Code
 
-A function that takes a list value as an argument and returns a string with all the items separated by a comma and a space, with 'and' inserted before the last item. This is a good example of how to type a list once and call on the values without typing each value over again in the code.
+I selected this function because it is a great example of how *end* disables a new line coming after the *print()* function and how to take a list value as an argument and returns a string with all the items separated by a comma and a space, with 'and' inserted before the last item. To create this function, I started with a for loop so that each item in the list, except the last item, gets printed. Then in the print function, I used *end* so that each item would print on the same line and be separated by a comma and a space. After the loop, I had the last item in the list printed after the ‘and’.
+
+*end* was particularly important to me during the process of creating this function. It is good to know that I can loop the printing of strings and have them appear on the same line when working with lists.
+
+This piece relates to what I learned before about how to create a function and why creating functions make coding easier. By creating a function, I only have to code an operation or procedure once and then call on it whenever I need to perform those functions.
 
 ### Character Picture Grid
 
-This function prints an ASCII image. The image is created by printing the values of each list that are stored in a list. This project was a good example of getting specific values from a specific index in a list. To print my second image, I printed the image on paper and sketched a grid of each character that was needed for the image. I then used my grid to enter each value of each list and position the lists in the main list so that when the function was called the characters would print the resulting ASCII image.
+![Image](image/Olympic_Logo.png)
+
+The reason I selected this piece of work is because this function prints an ASCII image. The image is created by printing the items of each list that are stored in a list. To print my second image, I printed the image on paper and sketched a grid of each character that was needed for the image. I then used my grid to enter each item of each list and position the lists in the main list so that when the function was called the characters would print the resulting ASCII image.
+
+Figuring out how to use a loop in a loop to print the items in the correct order was particularly important to me during the process of creating this work. This project was a good example of getting specific items from a specific index in a list. This applied what I had learned before about indexes. I basically used what I knew but had to look at calling on specific indexes in a particular way to get the items arranged to form a picture.
+```python
+# Function that prints an ASCII image
+def ASCIIimage(gridName):
+    for j in range(len(gridName[0])):
+        print()
+        for i in range(len(gridName)):
+            print(gridName[i][j], end='')
+    print()
+```
 
 [Module 04 Files]()
 
