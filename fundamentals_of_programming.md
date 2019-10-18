@@ -37,7 +37,7 @@ The one thing I would like someone to notice about my portfolio is that I don’
 
 ----------
 
-### [Python Basics]()
+### [Python Basics](https://github.com/gplambeck/unit_1/tree/master/module01/practices)
 
 I selected these practices because they demonstrate how far I have come since the beginning of the semester. Practice 1 demonstrates storing a message in a variable and printing the message to the screen, and then changing the value of the variable and printing the new value to the screen. I created this by first naming my variable spam and assigning it the message as its value, then calling the print function on spam as seen here:
 
@@ -82,7 +82,7 @@ Learning how the numbers affect the forward and backward movements was particula
 
 ----------
 
-### Calculation
+### [Calculation](https://github.com/gplambeck/unit_1/tree/master/module02/plambeck_how_many_trees.py)
 
 I selected this piece of work to demonstrate how Python can be used to create a calculation program. The goal was to estimate the number of trees in Sacramento. First, I created a variable containing the area of Sacramento in square miles (sq. mi.). Then, I made five sample area variables each having a value of the number of trees in a sample area of 200 feet by 200 feet. Next, I made a variable that calculates the average number of trees. Then, I convert the sample area from sq. ft. to sq. mi. Finally, my *answer* variable calculates the average number of trees per sq. mi. sample area, multiplies by the area of Sacramento, and then is printed to the screen.
 
@@ -96,7 +96,7 @@ What was particularly important to me during the process of creating this work w
 
 ----------
 
-### Rock - Paper - Scissors - Lizard - Spock Game
+### [Rock - Paper - Scissors - Lizard - Spock Game](https://github.com/gplambeck/unit_1/tree/master/module03/plambeck_rock-paper-scissors-lizard-Spock.py)
 
 I selected this piece of work because Rock - Paper - Scissors is a good example of working with conditionals. The entire program relies on evaluating if a condition is met then do this else if the condition is not met then do something else. I decided to take the program a step further and code it to that popular game of Rock - Paper - Scissors - Lizard - Spock.
 
@@ -128,7 +128,7 @@ What was particularly important to me during the process of creating this game w
 This piece of work relates to how I programed this game before in Java. With the exception of the language of the code being a little different, I basically wrote the code the exact same way and this time using what I have recently learned to add an option to continue or quit the game.
 
 
-### Password Generator
+### [Password Generator](https://github.com/gplambeck/unit_1/tree/master/module03/plambeck_python_password_generator.py)
 
 I selected the password generator because, in addition to the computer making a choice in the previous piece, it is a good example of how random items from a list can be chosen by the computer. To create this program, I first had to import random so that the computer could randomly pick items from a list. I then placed three lists and an original password variable above my main codes. To randomize four words to use in the new password, I assigned a random word from each of my list of words to four different variables.
 ```python
@@ -155,13 +155,13 @@ This project relates to loops, conditions, and flow control statements learned f
 
 ----------
 
-### Collatz Sequence
+### [Collatz Sequence](https://github.com/gplambeck/unit_1/tree/master/module04/plambeck_collatz_sequence.py)
 
 I selected this program to demonstrate how to define a function and how to use the *try* and *except* statements to validate the input. I created this program by first defining my function *collatz(number)*. If the number entered is even, divide it by 2 and print the result. If the number is odd, multiply it by 3 and add 1. After I have defined my function, I use the *try* statement in a while loop to try the user’s input and see if it is an integer and I use the *except* statement to print a message to the user to enter an integer if the program detects a value error. The while loop keeps calling on the *collatz(number)* function until the num variable equals 1.
 
 What was particularly important to me during the process of creating this work was remembering to convert the value type of a returned variable to an integer so that the function could continue until the loop ended. This relates to what I learned before about string concatenation and operations on integers, the math operators will not work on strings.
 
-### Comma Code
+### [Comma Code](https://github.com/gplambeck/unit_1/tree/master/module04/plambeck_comma_code.py)
 
 I selected this function because it is a great example of how *end* disables a new line coming after the *print()* function and how to take a list value as an argument and returns a string with all the items separated by a comma and a space, with 'and' inserted before the last item. To create this function, I started with a for loop so that each item in the list, except the last item, gets printed. Then in the print function, I used *end* so that each item would print on the same line and be separated by a comma and a space. After the loop, I had the last item in the list printed after the ‘and’.
 
@@ -169,7 +169,7 @@ I selected this function because it is a great example of how *end* disables a n
 
 This piece relates to what I learned before about how to create a function and why creating functions make coding easier. By creating a function, I only have to code an operation or procedure once and then call on it whenever I need to perform those functions.
 
-### Character Picture Grid
+### [Character Picture Grid](https://github.com/gplambeck/unit_1/tree/master/module04/plambeck_character_picture_grid.py)
 
 ![Image](image/snoopyASCII.png)
 
@@ -194,11 +194,11 @@ def ASCIIimage(gridName):
 
 ----------
 
-### Functions
+### [Functions](https://github.com/gplambeck/unit_1/tree/master/module05/plambeck_functions_practice.py)
 
 Again, I selected these practices because they demonstrate how my projects progress and advance from the foundations I start with. This would be another piece I would like to remove from this collection because it just reflects a simple introduction of what is to come. The *return* statement was particularly important to me during the process of these practices. It is important to specify what the return value of a function should be when defining your own function, especially if you want the function to return different values based on conditions. This would relate back to the Rock - Paper - Scissors game. There I had different print results based on certain conditions.
 
-### Encryption/Decryption
+### [Encryption/Decryption](https://github.com/gplambeck/unit_1/tree/master/module05/plambeck_encryption_project.py)
 
 I selected this piece of work because of all the items included, this one was the most challenging project. The problem I had was trying to figure out how I was going to get two lists, the alphabet list and the key list, to be associated with each other so the key would change the appropriate letters when scrambling the message. I created the function that would encrypt the message by first making three variables, one as an empty string, the second assigned the alphabet string variable, and the third assigned the key string variable. Then, I made a for loop that would loop through each symbol in the message. If the character in the message is in the alphabet, find its index in the alphabet and replace it with the character in the key with the same index. I also had to take care of characters that were in the message but not in the alphabet list, like the period, capital letters, numbers, or symbols. So, my *else* statement contained the empty string variable concatenated with the character not found in the alphabet list. To decrypt, I just swapped where the key and alphabet strings were used.
 ```python
@@ -234,11 +234,11 @@ The piece I would most like to improve is my *checkValidKey(Key)* function. Righ
 
 ----------
 
-### Strings and Exception Handling
+### [Strings and Exception Handling](https://github.com/gplambeck/unit_1/tree/master/module06/plambeck_practice.py)
 
 Once again, I selected these practices because they demonstrate how my projects progress and advance from the foundations I start with. This would be another piece I would like to remove from this collection because it just reflects a simple introduction of what is to come. The *.split()* method was particularly important to me during the process of these practices. It is very useful for extracting parts of a string or reordering a string, like when formatting a person’s name. Another way of extracting parts of a string is by string slicing. This would relate back to using indexes in a list, except, this time the indexes refer to a character’s position in a string.
 
-### Password Manager Program
+### [Password Manager Program](https://github.com/gplambeck/unit_1/tree/master/module06/plambeck_password_manager.py)
 
 The password manager program is the piece in my portfolio I am most proud of because it is a useful full functioning program that contains a starting point with input from the user, options for the user to choose from, and an end when the user is done. What makes this my best piece is that I took everything I learned so far from the other projects in this portfolio and combined them into one large program, a final result of what I have learned.
 
