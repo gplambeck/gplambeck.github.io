@@ -37,7 +37,7 @@ The one thing I would like someone to notice about my portfolio is that I don’
 
 ----------
 
-### Python Basics
+### [Python Basics]()
 
 I selected these practices because they demonstrate how far I have come since the beginning of the semester. Practice 1 demonstrates storing a message in a variable and printing the message to the screen, and then changing the value of the variable and printing the new value to the screen. I created this by first naming my variable spam and assigning it the message as its value, then calling the print function on spam as seen here:
 
@@ -59,7 +59,7 @@ Practice 4 demonstrates the ```len()``` function which returns an integer value 
 
 Since most of the books I have read about Python start with these same basic practices, these practices relate to what I have learned before. I would like to remove this basics section from this collection because it doesn’t really reflect the full potential of my skills. This section just reflects the foundation of my later works. Starting here and progressing on shows how my projects progress and advance from the foundations I start with.
 
-### Turtle
+### [Turtle](https://github.com/gplambeck/unit_1/tree/master/module01/plambeck_hello_turtle.py)
 
 ![Image](image/Olympic_Logo.png)
 
