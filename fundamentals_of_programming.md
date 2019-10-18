@@ -40,6 +40,7 @@ The one thing I would like someone to notice about my portfolio is that I don’
 ### Python Basics
 
 I selected these practices because they demonstrate how far I have come since the beginning of the semester. Practice 1 demonstrates storing a message in a variable and printing the message to the screen, and then changing the value of the variable and printing the new value to the screen. I created this by first naming my variable spam and assigning it the message as its value, then calling the print function on spam as seen here:
+
 ```python
 spam = "Hello World!"
 print(spam)
@@ -49,6 +50,7 @@ Practice 2 demonstrates how to print quotation marks to the screen. This is done
 print('Obi-Wan Kenobi once said, "You\'ve taken your first step into \
 a larger world."')
 ```
+
 I also used (\\) to tell Python that the apostrophe is a character in the string and not the end of the string. In addition, I used the backslash by itself at the end of the line to tell Python that I want to break to the next line but to ignore the break when printing the string. This style is particularly important to me when writing code because text editors usually open as a small window. By confining my texts to a standard space, someone reading my code wouldn’t need to scroll to the side to read what is hidden at the side of the window or enlarge the window and fill their limited screen space.
 
 Practice 3 demonstrates the importance of knowing the difference between an integer and a string. This is important because only strings can be concatenated. If the value of a variable is an integer and it is called upon in a string, the variable must be converted to a string using ```str(fave_num)``` before the variable can be concatenated in the string.
@@ -224,7 +226,7 @@ What was particularly important to me during the process of creating this work w
 The piece I would most like to improve is my *checkValidKey(Key)* function. Right now, if the user doesn’t input a key meeting the specified criteria, the program exits with an error message. Instead, I would like the function to loop until a valid key is entered. After trying all of the ways I have learned before about loops, I will come back to this and try some new ideas that I have learned in later lessons.
 
 
-[Module 05 Files]()
+[Module 05 Files](https://github.com/gplambeck/unit_1/tree/master/module05)
 
 [Return to top](#unit-1-fundamentals-of-programming-in-python)
 
@@ -234,13 +236,38 @@ The piece I would most like to improve is my *checkValidKey(Key)* function. Righ
 
 ### Strings and Exception Handling
 
-
+Once again, I selected these practices because they demonstrate how my projects progress and advance from the foundations I start with. This would be another piece I would like to remove from this collection because it just reflects a simple introduction of what is to come. The *.split()* method was particularly important to me during the process of these practices. It is very useful for extracting parts of a string or reordering a string, like when formatting a person’s name. Another way of extracting parts of a string is by string slicing. This would relate back to using indexes in a list, except, this time the indexes refer to a character’s position in a string.
 
 ### Password Manager Program
 
+The password manager program is the piece in my portfolio I am most proud of because it is a useful full functioning program that contains a starting point with input from the user, options for the user to choose from, and an end when the user is done. What makes this my best piece is that I took everything I learned so far from the other projects in this portfolio and combined them into one large program, a final result of what I have learned.
 
+To create this program, I first started with what I needed. I imported the modules I was going to need, then create the dictionaries, lists, and variable I was going to be using in my functions, and lastly, define the functions I was going to need to run the program. After my functions had been defined, I created a while loop that would ask the user for a username and password to access the program. Then I created another while loop that would keep the program running until the user was done. For this option I created a choice mode.
+```python
+# choosing mode
+selection = ['e', 'd', 'a', 'r', 'g', 'x']
+mode = input('Enter a menu selection (e, d, a, r, g, x): ')
+mode = mode.lower()
+while mode not in selection:
+    mode = input('Enter a menu selection (e, d, a, r, g, x): ')
+```
+From here, I used the code from my previous projects and used *if*, *elif*, and *else* statements to run the appropriate code based on the user’s selection. Finally, I placed both exiting options at the end of my while loop.
 
-[Module 06 Files]()
+The layout was particularly important to me during the process of creating this work. Because this file contains a lot of code, I wanted to have my functions grouped together at the top so that they are easier to find when reading through the while loop that runs the program. It could be easy to get lost in the code if I had my functions scattered in the middle of each mode. The functions are also listed in the order that they are used.
+
+A problem I encountered was printing the encryption of the passwords in the *PASSWORDS* dictionary. I wanted the key and its value printed on the first line and then the encryption printed on the next line so the user knew what account the encrypted password went to. I solved this problem by making a for loop to first check if the key and its value were in the *PASSWORDS* dictionary. Then, if it is, print the key and its value as a string. Next, encrypt the password. Then, print the encryption.
+```python
+if mode == 'e':
+    for k, v in PASSWORDS.items():
+        print(k + ': ' + str(v))
+        translated = encrypt(key, str(v))
+        print('Enctrypted: ' + translated)
+```
+This project relates to everything covered in modules 1 through 6. The encryption/decryption of passwords followed the Encryption/Decryption project in Module 05, the adding and retrieving of passwords came from reading the lesson of dictionaries in the book *Automate The Boring Stuff*, and the password generator came from the Password Generator project from Module 03.
+
+What makes this piece different from my weakest piece is that I can do more with the program. I can choose what I want to accomplish. I don’t have to make a choice to run the program to exit it, I can just exit the program right away. Also, I don’t have to keep running the program manually after it has finished completing a task, I can choose to do another task and exit the program when I am done. This program is also a more completed product, whereas the others are smaller portions that build up to this finished result.
+
+[Module 06 Files](https://github.com/gplambeck/unit_1/tree/master/module06)
 
 [Return to top](#unit-1-fundamentals-of-programming-in-python)
 
