@@ -6,7 +6,7 @@ theme: time-machine
 
 ----------
 
-I’ve organized my portfolio like a table of contents in a book and modeled the paths to the content after the directory standard used for file management with computers. Each unit is sectioned into modules containing the topics that were explored for the unit. Each module and topic in the modules are linked to their specific section of the page. The reason for this order is to make navigating each page and the entire portfolio site user friendly. The paths of each topic can be followed the same way paths of a file can be followed on a computer to find its location.
+I’ve organized my portfolio like a table of contents in a book and modeled the paths to the content after the directory standard used for file management with computers. Each project is sectioned into modules containing the topics that were explored for the unit. Each module and topic in the modules are linked to their specific section of the page. The reason for this order is to make navigating each page and the entire portfolio site user friendly. The paths of each topic can be followed the same way paths of a file can be followed on a computer to find its location.
 
 The topics explored in this unit are:
 
