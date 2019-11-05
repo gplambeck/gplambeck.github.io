@@ -43,7 +43,7 @@ while True:
         pass
 ```
 
-[Return to top](#unit-2-internet-of-things-\(iot))
+[Return to top](#unit-2-internet-of-things-\(iot\))
 
 ## IoT Adventure
 
