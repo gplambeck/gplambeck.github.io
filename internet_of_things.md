@@ -10,7 +10,7 @@ To keep my portfolio consistent with the other pages, I have organized this page
 
 The projects explored in this unit are:
 
-* [Micro:bit Experiments](#micro:bit-experiments)
+* [Micro:bit Experiments](#microbit-experiments)
 * [IoT Adventure](#iot-adventure)
 
 [Unit 2 Files](https://github.com/gplambeck/unit_1/tree/master/module06)
@@ -21,7 +21,7 @@ My goal was to learn how to connect the wires and components together to get the
 
 The one thing I would like someone to notice about my portfolio is that I used what little resources I had to accomplish the project’s objectives. There were a lot of ideas to choose from, but I needed more resources to make them work and meet all the project’s objectives. So, I went back to the initial experiments in the unit and thought of what I can combine to meet all of the project’s objectives. I feel that this collection of work really reflects my abilities to use the resources I have and produce results. So far this year, I have achieved understanding the codes I read and how I can use them. Also, finding a use for components to create a device that meets all the project’s requirements.
 
-## Micro:bit Experiments
+## Microbit Experiments
 
 ----------
 
