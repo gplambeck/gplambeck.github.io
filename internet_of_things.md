@@ -43,7 +43,7 @@ while True:
         pass
 ```
 
-[Return to top](#----------)
+[Return to top](#)
 
 ## IoT Adventure
 
@@ -57,7 +57,7 @@ What was important to me during the process of creating this work was understand
 
 In addition to using the experiments as a guide, this project related to what I learned before about lists and using a list to randomize output.
 
-[Return to top](#unit-2-internet-of-things-(iot))
+[Return to top](#)
 
 
 #### Course Units
