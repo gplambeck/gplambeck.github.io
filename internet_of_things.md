@@ -10,8 +10,8 @@ To keep my portfolio consistent with the other pages, I have organized this page
 
 The projects explored in this unit are:
 
-* [Micro:bit Experiments](# micro:bit-experiments)
-* [IoT Adventure](# iot-adventure)
+* [Micro:bit Experiments](#micro:bit-experiments)
+* [IoT Adventure](#iot-adventure)
 
 [Unit 2 Files](https://github.com/gplambeck/unit_1/tree/master/module06)
 
