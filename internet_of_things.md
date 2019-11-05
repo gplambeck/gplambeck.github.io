@@ -13,7 +13,7 @@ The projects explored in this unit are:
 * [Microbit Experiments](#microbit-experiments)
 * [IoT Adventure](#iot-adventure)
 
-[Unit 2 Files](https://github.com/gplambeck/unit_1/tree/master/module06)
+[Unit 2 Files](https://github.com/gplambeck/unit_2)
 
 I have chosen these particular pieces to demonstrate how Python can be used to make a device respond to particular input and become a useful tool. Doing each experiment helped me learn how to get the micro:bit to recognize button pushes or movements and how to get output results, like lights or sound, when these actions are done.
 
