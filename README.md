@@ -18,8 +18,8 @@ So far, my computer experience is in:
 - HTML5
 - Java
 - macOS
-- Adobe CC Suite
-- Maya
+- [Adobe CC Suite](./graphic_design.md)
+- [Maya](./graphic_design.md)
 - CSS
 - JavaScript
 - jQuery
