@@ -2,7 +2,7 @@
 theme: time-machine
 ---
 
-# Unit 1 Fundamentals of Programming in Python
+# Gallery
 
 ----------
 
@@ -272,12 +272,6 @@ What makes this piece different from my weakest piece is that I can do more with
 [Return to top](#unit-1-fundamentals-of-programming-in-python)
 
 
-#### Course Units
-
 ----------
-
-1. [**Fundamentals of Programming in Python**](./fundamentals_of_programming.md)
-2. [Internet of Things (IoT)](./internet_of_things.md)
-3. [Python Hackathon](./python_hackathon.md)
 
 [About Me](./README.md)
