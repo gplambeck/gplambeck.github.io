@@ -23,8 +23,11 @@ The one thing I would like someone to notice about my portfolio is my attention 
 
 ----------
 
-### App Screens 1 & 2
-![Image](image/app1.jpg)![Image](image/app2.jpg)
+### App Screen 1
+![Image](image/app1.jpg)
+
+### App Screen 2
+![Image](image/app2.jpg)
 
 [Return to top](#gallery)
 
