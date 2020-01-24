@@ -6,37 +6,39 @@ theme: time-machine
 
 ----------
 
-Welcome to my gallery. Here, I have samples of projects I did in 
+Welcome to my gallery. Here, I have samples of projects I did in
 
 - [Illustrator](#illustrator)
-- [Phototshop](#photoshop)
+- [Photoshop](#photoshop)
 - [InDesign](#indesign)
 - [Maya](#maya)
 
 I’ve organized my portfolio like a table of contents in a book. Each project is sectioned by the programs used to create each of the artworks. Each program used for the projects are linked to their specific section of the page. The reason for this order is to make navigating each page and the entire portfolio site user friendly.
 
-I have chosen these particular pieces to demonstrate my skills as a graphic artist and an imaginative story teller. Each of these pieces represents how I started with learning the basics and how the different codes work and then advancing by applying what I have learned to create useful programs. My goals were to improve the skills I had already taught myself and to understand the language better. I have successfully accomplished these goals by following and understanding the examples in class and in the book *Automate The Boring Stuff With Python*. To explore my new skills further, I would also continue to use the book I was teaching myself from, *Beginning Python From Novice to Professional*, and research codes on the internet to find ways of enhancing my programs.
+I have chosen these particular pieces to demonstrate my skills as a graphic artist and an imaginative storyteller. Each of these pieces represents my creativity and attention to detail. My goals are to illustrate an idea or story and experiment with special effects. I have successfully accomplished these goals by creating artwork that sets up an idea or story and limiting any special effects so that it doesn't become the main focus of the piece.
 
-The one thing I would like someone to notice about my portfolio is that I don’t just accomplish what needs to be done, I continue to go beyond the lesson to learn more and continue to advance the skills I start out with. I think that once basic skills are mastered, the only way to keep these skills is by continually using them and finding new ways to advance them. I feel that this collection of work really reflects my abilities and what I have achieved so far.
+The one thing I would like someone to notice about my portfolio is my attention to detail.
 
 ## Illustrator
 
 ----------
 
-![Image](image/app.pdf)![Image](image/app_copy.pdf)
+### App Screens 1 & 2
+![Image](image/app1.jpg)![Image](image/app2.jpg)
 
 [Return to top](#gallery)
 
-## Phototshop
+## Photoshop
 
 ----------
 
+### Original
 ![Image](image/original.jpg)
-Original
 
+### Retouch
 ![Image](image/retouch.jpg)
-Retouch
 
+### Poster
 ![Image](image/golden_ratio_movie_poster.jpg)
 
 [Return to top](#gallery)
@@ -45,7 +47,8 @@ Retouch
 
 ----------
 
-![Image](image/Olympic_Logo.png)
+### Nameplate
+![Image](image/nameplate_cardinal_red&black.jpg)
 
 [Return to top](#gallery)
 
@@ -53,7 +56,8 @@ Retouch
 
 ----------
 
-![Image](image/Olympic_Logo.png)
+### Darth Yellow 3D Model
+![Image](image/darth_yellow.png)
 
 [Return to top](#gallery)
 
